@@ -32,7 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="application_rationals.cpp" />
+		<Unit filename="rationals.cpp" />
+		<Unit filename="rationals.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
